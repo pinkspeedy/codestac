@@ -1,0 +1,9 @@
+Release 2.0 19-set-2026
+
+Some bugs fixed:
+
+In lateral views (right/left), the longitudinal line section now extends across the entire view.
+
+View scales are now linked to the page scale.
+
+In “PLANOS PUERTA”, views without doors are now aligned with the main view.
